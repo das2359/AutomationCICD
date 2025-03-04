@@ -21,6 +21,7 @@ public class StandAloneTest {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		//Adding comment to test cicd pipeline via webhook
+		//testing cicd 
 
 		final String product = "IPHONE 13 PRO";
 		final String exactMessage = "Thankyou for the order.";
