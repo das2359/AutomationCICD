@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-04T11:07:20 IST" name="Default suite" finished-at="2025-03-04T11:07:27 IST" duration-ms="7053">
+    <groups>
+    </groups>
+    <test started-at="2025-03-04T11:07:20 IST" name="Default test" finished-at="2025-03-04T11:07:27 IST" duration-ms="7053">
+      <class name="ClinisysReasearchAndDevelopment.Tests.ErrorValidationsTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:ClinisysReasearchAndDevelopment.Tests.ErrorValidationsTest@6c40365c]" started-at="2025-03-04T11:07:20 IST" name="launchApplication" finished-at="2025-03-04T11:07:23 IST" duration-ms="2837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="incorrectProductNameError()[pri:0, instance:ClinisysReasearchAndDevelopment.Tests.ErrorValidationsTest@6c40365c]" started-at="2025-03-04T11:07:23 IST" name="incorrectProductNameError" finished-at="2025-03-04T11:07:27 IST" duration-ms="4045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectProductNameError -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:ClinisysReasearchAndDevelopment.Tests.ErrorValidationsTest@6c40365c]" started-at="2025-03-04T11:07:27 IST" name="quitBrowser" finished-at="2025-03-04T11:07:27 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- ClinisysReasearchAndDevelopment.Tests.ErrorValidationsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
